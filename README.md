@@ -27,8 +27,7 @@ The generated visualizations include:
 A line plot showing the number of emails sent per day over time.
 A bar chart showing the top 10 email senders in descending order.
 A horizontal bar chart showing the top 10 email recipients in descending order.
-Contributors
-We welcome contributions from the community! If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
+
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
